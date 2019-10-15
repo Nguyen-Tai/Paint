@@ -1,0 +1,44 @@
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe.config
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.pdb
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csprojAssemblyReference.cache
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Form1.resources
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.PanelPaint.resources
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Properties.Resources.resources
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.GenerateResource.cache
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.CoreCompileInputs.cache
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.exe
+C:\Users\trann\source\repos\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.pdb
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Form1.resources
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.PanelPaint.resources
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Properties.Resources.resources
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.CoreCompileInputs.cache
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.exe
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.pdb
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe.config
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe
+C:\Users\trann\Desktop\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.pdb
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe.config
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.pdb
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Form1.resources
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.PanelPaint.resources
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Properties.Resources.resources
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.CoreCompileInputs.cache
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.exe
+C:\Users\trann\Desktop\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.pdb
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe.config
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.exe
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\bin\Debug\DOANLTWD.pdb
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csprojAssemblyReference.cache
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Form1.resources
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.PanelPaint.resources
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.Properties.Resources.resources
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.GenerateResource.cache
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.csproj.CoreCompileInputs.cache
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.exe
+D:\Paint_17110217\Source Code\Simple Paint\DOANLTWD\obj\Debug\DOANLTWD.pdb

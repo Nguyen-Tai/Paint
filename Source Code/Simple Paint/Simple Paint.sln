@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOANLTWD", "DOANLTWD\DOANLTWD.csproj", "{C2A63C69-37B9-4726-AA57-77CE643FEEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A63C69-37B9-4726-AA57-77CE643FEEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A63C69-37B9-4726-AA57-77CE643FEEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A63C69-37B9-4726-AA57-77CE643FEEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A63C69-37B9-4726-AA57-77CE643FEEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89AEA873-E358-490F-910D-F1D1CCAB5723}
+	EndGlobalSection
+EndGlobal
